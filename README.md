@@ -1,12 +1,9 @@
-<!-- GitHub Profile Readme -->
-
 <p align="center">
   <img width="100%" alt="Swarna Sutradhar Banner" src="https://github.com/user-attachments/assets/10be3acd-94a9-40e7-9b43-772b14664c31" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swarna Sutradhar</h1>
 
-<!-- Typing Animation Section -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=React+Learner;Aspiring+Full-Stack+Developer;Frontend+Explorer" alt="Typing SVG" />
@@ -15,7 +12,6 @@
 
 <br />
 
-<!-- About Me Section -->
 <h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="30" height="30" /> ABOUT ME:
 </h3>
@@ -29,8 +25,7 @@
 
 <br />
 
-<!-- Professional Objective Section -->
- <h2>🎯 Professional Objective</h2>
+<h2>🎯 Professional Objective</h2>
 
 <p align="left">
 I am a <strong>Future Full Stack Developer</strong> focused on building modern, scalable, and user-friendly web applications.
@@ -46,7 +41,6 @@ Currently, I am strengthening my skills in <strong>React, TypeScript, Next.js, N
 
 <br />
 
-<!-- What I'm Learning to Build Section -->
 <h3 align="left">
   💼 What I'm Learning to Build
 </h3>
@@ -62,7 +56,6 @@ Currently, I am strengthening my skills in <strong>React, TypeScript, Next.js, N
 
 <br />
 
-<!-- Problem Solving Section -->
 <h3 align="left">
   🧠 Problem Solving
 </h3>
@@ -117,10 +110,20 @@ I regularly practice programming problems to improve my:
 
 <br />
 
-<!-- GitHub Analytics Section -->
 <h3 align="left">🔥 Contribution Streak</h3>
 
-<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabuilds&theme=radical" alt="swarnabuilds streak" />
+</p>
+
+
+
+<br />
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" /> MY CONTRIBUTION GRAPH:
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swarnabuilds/swarnabuilds/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
