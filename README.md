@@ -73,17 +73,6 @@
 
 <br />
 
-<!-- Animated Contribution Snake Graph Section -->
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" /> CONTRIBUTION GRAPH:
-</h3>
-
-<p align="center">
-  <img src="https://snk-generator.vercel.app/api/snk?username=swarnabuilds" alt="Snake Animation" width="100%" />
-</p>
-
-<br />
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabuilds&theme=radical" alt="swarnabuilds streak" />
 </p>
