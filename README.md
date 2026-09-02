@@ -14,9 +14,11 @@
 </p>
 
 <br />
-
-- 🔭 I’m currently working on **React.js, TypeScript for frontend development.**
-- 🌱 I’m currently learning **React, Next.js, and Full-Stack Web Development**
+ 👨‍💻 About Me
+- 💻 Building modern and responsive web applications
+- 🔭 I’m currently working on **React.js, Next.js, MongoDB, TypeScript for web development.**
+- 🧠 Passionate about **problem solving and clean UI/UX**
+-  🌱 Continuously learning and improving my development skills
 - 💬 Ask me about **TypeScript, React, Next.js**
 - 📫 How to reach me **swarnasutradhar89@gmail.com**
 
