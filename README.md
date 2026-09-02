@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="100%" alt="Swarna Sutradhar Banner" src="https://github.com/user-attachments/assets/10be3acd-94a9-40e7-9b43-772b14664c31" />
-</p>
+ <img width="2097" height="512" alt="swarna" src="https://github.com/user-attachments/assets/6f7bc6f1-34aa-4547-addc-f2aaa26055df" />
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swarna Sutradhar</h1>
 
