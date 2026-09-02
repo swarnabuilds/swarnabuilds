@@ -64,7 +64,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabuilds&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabuilds&layout=compact&theme=radical&hide_border=false&count_private=true" alt="Most Used Languages" />
+</p>
+
+<br />
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" /> CONTRIBUTION GRAPH:
+</h3>
+
+<p align="center">
+  <img src="https://svg.action-tokens.dev/swarnabuilds?theme=dark" alt="Contribution Graph" width="100%" />
 </p>
 
 <br />
