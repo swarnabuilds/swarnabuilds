@@ -1,9 +1,12 @@
+<!-- GitHub Profile Readme -->
+
 <p align="center">
   <img width="100%" alt="Swarna Sutradhar Banner" src="https://github.com/user-attachments/assets/10be3acd-94a9-40e7-9b43-772b14664c31" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swarna Sutradhar</h1>
 
+<!-- Typing Animation Section -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=React+Learner;Aspiring+Full-Stack+Developer;Frontend+Explorer" alt="Typing SVG" />
@@ -59,6 +62,7 @@
 
 <br />
 
+<!-- GitHub Analytics Section -->
 <h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GITHUB ANALYTICS:
 </h3>
@@ -69,12 +73,13 @@
 
 <br />
 
+<!-- Animated Contribution Snake Graph Section -->
 <h3 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" /> CONTRIBUTION GRAPH:
 </h3>
 
 <p align="center">
-  <img src="https://svg.action-tokens.dev/swarnabuilds?theme=dark" alt="Contribution Graph" width="100%" />
+  <img src="https://snk-generator.vercel.app/api/snk?username=swarnabuilds" alt="Snake Animation" width="100%" />
 </p>
 
 <br />
