@@ -14,13 +14,66 @@
 </p>
 
 <br />
- 👨‍💻 About Me
+
+<!-- About Me Section -->
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="30" height="30" /> ABOUT ME:
+</h3>
+
 - 💻 Building modern and responsive web applications
 - 🔭 I’m currently working on **React.js, Next.js, MongoDB, TypeScript for web development.**
 - 🧠 Passionate about **problem solving and clean UI/UX**
--  🌱 Continuously learning and improving my development skills
+- 🌱 Continuously learning and improving my development skills
 - 💬 Ask me about **TypeScript, React, Next.js**
 - 📫 How to reach me **swarnasutradhar89@gmail.com**
+
+<br />
+
+<!-- Professional Objective Section -->
+ <h2>🎯 Professional Objective</h2>
+
+<p align="left">
+I am a <strong>Future Full Stack Developer</strong> focused on building modern, scalable, and user-friendly web applications.
+</p>
+
+<p align="left">
+Currently, I am strengthening my skills in <strong>React, TypeScript, Next.js, Node.js, Express.js, and MongoDB</strong> while improving my problem-solving abilities and software development practices.
+</p>
+
+<p align="left">
+🎯 <strong>Goal:</strong> Become a professional Full Stack Developer and contribute to impactful software products.
+</p>
+
+<br />
+
+<!-- What I'm Learning to Build Section -->
+<h3 align="left">
+  💼 What I'm Learning to Build
+</h3>
+
+- 🌐 Responsive Web Applications
+- ⚛️ React-based Frontend Applications
+- 📊 Dashboard & Admin Panels
+- 🔐 Authentication Systems
+- 🛒 E-commerce Interfaces
+- 📝 Task Management Applications
+- 🤖 AI-powered Web Applications
+- 🔗 REST API-based Applications
+
+<br />
+
+<!-- Problem Solving Section -->
+<h3 align="left">
+  🧠 Problem Solving
+</h3>
+
+I regularly practice programming problems to improve my:
+
+- 🧩 Logical thinking
+- 🔍 Problem-solving skills
+- ⚡ JavaScript fundamentals
+- 🔷 TypeScript concepts
+- 🧠 Algorithms & Data Structures
 
 <br />
 
@@ -65,16 +118,9 @@
 <br />
 
 <!-- GitHub Analytics Section -->
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GITHUB ANALYTICS:
-</h3>
+<h3 align="left">🔥 Contribution Streak</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabuilds&layout=compact&theme=radical&hide_border=false&count_private=true" alt="Most Used Languages" />
-</p>
-
-<br />
-
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabuilds&theme=radical" alt="swarnabuilds streak" />
 </p>
