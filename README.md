@@ -1,12 +1,9 @@
-<!-- GitHub Profile Readme -->
-
 <p align="center">
   <img width="100%" alt="Swarna Sutradhar Banner" src="https://github.com/user-attachments/assets/10be3acd-94a9-40e7-9b43-772b14664c31" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swarna Sutradhar</h1>
 
-<!-- Typing Animation Section -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=React+Learner;Aspiring+Full-Stack+Developer;Frontend+Explorer" alt="Typing SVG" />
@@ -58,6 +55,16 @@
 <p align="left"><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="22" height="22" /> Database:</strong></p>
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<br />
+
+<h3 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" /> GITHUB ANALYTICS:
+</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabuilds&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 </p>
 
 <br />
