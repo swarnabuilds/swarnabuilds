@@ -1,4 +1,4 @@
- <img width="2097" height="512" alt="swarna" src="https://github.com/user-attachments/assets/6f7bc6f1-34aa-4547-addc-f2aaa26055df" />
+<img width="100%" src="https://raw.githubusercontent.com/swarnabuilds/swarnabuilds/main/my-banner.jfif" alt="Swarna Sutradhar Banner" />
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Swarna Sutradhar</h1>
